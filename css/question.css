@@ -1,0 +1,34 @@
+.container{
+    padding: 20px;
+    
+}
+.question{
+margin: auto;
+border: 1px solid grey;
+padding-bottom: 20px;
+background: #e6ee9c;
+}
+.question ol{
+margin: 0;
+padding:10px 10px 10px 10px;
+}
+.question h6{
+background: #000;
+color: #fff;
+margin: 0;
+padding: 5px 5px;
+}
+.question ol li{
+padding: 5px 0px;
+background: #e3f2fd;
+margin-bottom: 5px;
+}
+.question ol li input{
+margin-right: 10px;
+margin-left: 10px;
+}
+.row{
+display: flex;
+justify-content: space-evenly;
+width: 100%;
+}
